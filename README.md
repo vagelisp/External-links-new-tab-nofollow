@@ -24,7 +24,7 @@ jQuery(document).ready(function($) {
 
 Simple demo file
 
-```javascript
+```
 <!doctype html>
 <html lang="en">
 <head>
